@@ -1,0 +1,9 @@
+{
+  "additional_folders": [],
+  "reminder_interval_seconds": 15,
+  "ollama_model": "",
+  "enabled_plugins": [
+    "computer_use",
+    "web_lookup"
+  ]
+}
